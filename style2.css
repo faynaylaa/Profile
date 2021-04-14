@@ -39,29 +39,24 @@ body{
 }
 
 .about{
-    background-image: url(         );
     margin-top: 0%;
     font-family: Rufina;
 }
 
 .about .card-text {
     font-size: 25px;
-    
 }
 
 .about .card-title{
     font-size: 40px;
-    
 }
 
 .about .card-subtitle {
-    font-size: 25px;
-    
+    font-size: 25px;   
 }
 
 .about .col {
     font-size: 25px;
-    
 }
 
 .about hr{
@@ -91,11 +86,8 @@ body{
 }
 
 .academic{
-    background-image: url(      );
     margin-top: 0%; 
-
     font-family: Rufina;
-
 }
 
 .academic .card-title{
@@ -147,7 +139,6 @@ body{
 }
 
 .portofolio{
-    background-image: url(          );
     margin-top: 0%;  
 }
 
